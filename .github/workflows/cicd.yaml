@@ -1,4 +1,5 @@
 name: Deploy Application Docker Image to EC2 instance
+# This is where the integration and deployment will happen
 
 on:
   push:
