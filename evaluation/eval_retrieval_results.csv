@@ -1,0 +1,11 @@
+id,question,expected_topic,hit
+1,Can you explain Abscess incision & drainage?,Abscess incision & drainage,True
+2,What is Acromegaly and gigantism?,Acromegaly and gigantism,True
+3,What does the medical term Allergic purpura mean?,Allergic purpura,True
+4,Can you explain Alpha1-adrenergic blockers?,Alpha1-adrenergic blockers,True
+5,Can you explain Aminoglycosides?,Aminoglycosides,True
+6,Can you explain Antihelminthic drugs?,Antihelminthic drugs,True
+7,Can you explain Antiseptics?,Antiseptics,True
+8,Can you explain Appendicitis?,Appendicitis,True
+9,Can you explain Athletic heart syndrome?,Athletic heart syndrome,True
+10,Can you explain Bladder training?,Bladder training,True
